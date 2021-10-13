@@ -1,0 +1,17 @@
+#form-container, #dice-container, #table-container, #qty-container {
+    margin-top: 2em;
+}
+
+.navbar-brand {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand img {
+    min-width: 100px;
+    max-width: 10%;
+}
+
+#dice-container img {
+    margin: 0.2em;
+}
+
